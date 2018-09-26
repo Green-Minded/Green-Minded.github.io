@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "GreenMinded",
-    "currentPage": "page4.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -3342,23 +3342,6 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/img20180926083654.gif",
-                "active": false,
-                "showButtons": false,
-                "showText": true,
-                "showTitle": false,
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=oKj641AW694",
-                "customStyle1": "display-1",
-                "customStyle2": "display-2",
-                "customStyle3": "display-4",
-                "title": "FULL SCREEN SLIDER",
-                "overlay": false,
-                "contentAlign": "center",
-                "text": "don't pick flowers!",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>"
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/img20180926083206.gif",
                 "active": true,
                 "showButtons": false,
                 "showText": true,
@@ -3371,7 +3354,7 @@
                 "title": "FULL SCREEN SLIDER",
                 "overlay": false,
                 "contentAlign": "center",
-                "text": "throw your garbage properly!",
+                "text": "don't pick flowers!",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
